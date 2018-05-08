@@ -5,7 +5,9 @@ This project, part of my semester course "Pattern Recognition" (Winter 2017), is
 <br />
 <br />
 <br />
-/***************************************    INSTRUCTIONS    ***************************************/
+<br />
+<br />
+                /***************************************    INSTRUCTIONS    ***************************************/
 
 1) Set the current working directory and read the dataset into the R environment.
 
