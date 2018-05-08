@@ -1,4 +1,4 @@
-setwd("C:\\Users\\BabisI\\Desktop\\ΤΗΜΜΥ 9ο Εξάμηνο (Τομέας Ηλεκτρονικής και Υπολογιστών)\\Αναγνώριση Προτύπων\\Εργασία")
+setwd("C:\\Users\\BabisI\\Desktop\\Γ”Γ‡ΓΓΓ• 9Γ― Γ…Γ®ΓΓ¬Γ§Γ­Γ― (Γ”Γ―Γ¬ΓΓ΅Γ² Γ‡Γ«Γ¥ΓªΓ΄Γ±Γ―Γ­Γ©ΓªΓΓ² ΓªΓ΅Γ© Γ•Γ°Γ―Γ«Γ―Γ£Γ©Γ³Γ΄ΓΎΓ­)\\ΓΓ­Γ΅Γ£Γ­ΓΎΓ±Γ©Γ³Γ§ ΓΓ±Γ―Γ΄Γ½Γ°ΓΉΓ­\\Γ…Γ±Γ£Γ΅Γ³ΓΓ΅")
 
 dataset = read.csv("dataset.csv", sep=';', header = TRUE, na.strings = c("NA"), colClasses = c("character", "character", "numeric", "numeric", "integer", "integer", "integer", "numeric", "numeric", "integer", "integer", "integer", "integer", "integer", "integer", "numeric", "integer", "integer", "integer", "integer", "integer", "integer", "integer", "integer", "integer", "integer", "integer"))
 
