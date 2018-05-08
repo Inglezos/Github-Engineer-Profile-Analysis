@@ -10,29 +10,46 @@ This project, part of my semester course "Pattern Recognition" (Winter 2017), is
                 /***************************************    **INSTRUCTIONS**    ***************************************/
 
 1) Set the current working directory and read the dataset into the R environment.
+<br />
 
 2) Open the Inglezos_Charalampos_8145_Pattern_Recognition_Project_Code.R script file.
+<br />
 
 3) Execute the commands one-by-one and follow the further instructions that I have included thoroughly there in the form of comments, perhaps modifying/adjusting them properly.
+<br />
 
 4) Generally, (at some point) you will need to execute the included script files:
-
-	i) "impute_NA.R"
-	ii) "kmeans_k.R"
-	iii) "fanny_k.R"
-	iv) "diana_k.R"
-	v) "hclust_k.R"
-	vi) "pam_k.R"
-	vii) "pam_routine.R"
-	viii) "pam_dev_routine.R"
-	ix) "pam_ops_routine.R"
-	x) "pam_devops_routine.R"
+<br />
+        i) "impute_NA.R"
+	<br />
+        ii) "kmeans_k.R"
+	<br />
+        iii) "fanny_k.R"
+	<br />
+        iv) "diana_k.R"
+	<br />
+        v) "hclust_k.R"
+	<br />
+        vi) "pam_k.R"
+	<br />
+        vii) "pam_routine.R"
+	<br />
+        viii) "pam_dev_routine.R"
+	<br />
+        ix) "pam_ops_routine.R"
+	<br />
+        x) "pam_devops_routine.R"
+	<br />
 
 
 5) The reader should make sure to check also the other scripts I have included (in the .zip file) for a complete realization of my work.
+<br />
 
 6) Finally, the readers should be free to experiment and see for themselves the boxplots produced by the different clustering models I created and that are described in my detailed report of my assignment.
+<br />
 
 7) For any questions and further explanations, please contact me at: inglezos@ece.auth.gr
+<br />
 
 8) Note: Since the .RData files are too large, I preferred to include only the latest version and not previous ones.
+<br />
